@@ -624,24 +624,22 @@ def ejecutar_algoritmo_genetico(datos):
 if __name__ == "__main__":
     uploaded_file = None
     try:
-        # Prompt the user to upload a JSON file
-        print("Please upload your 'data.json' file:")
-        uploaded = files.upload() # This opens the file selection dialog
+        # Solicitar a la usuario que cargue un archivo JSON
+        print("Por favor sube tu 'data.json' archivo:")
+        uploaded = files.upload()
 
-        # Get the name of the uploaded file (assuming only one is uploaded)
         if uploaded:
             uploaded_file_name = list(uploaded.keys())[0]
-            print(f"File '{uploaded_file_name}' uploaded successfully.")
+            print(f"File '{uploaded_file_name}' subido exitosamente.")
 
-            # Load the data from the uploaded file
             with open(uploaded_file_name, 'r') as f:
                 datos_cargados = json.load(f)
 
-            # Now, execute the genetic algorithm with the loaded data
+            # Ejecute el algoritmo genético con los datos cargados.
             ejecutar_algoritmo_genetico(datos_cargados)
         else:
-            print("No file was uploaded. Exiting.")
+            print("No se cargó ningún archivo")
 
     except Exception as e:
-        print(f"An error occurred during file upload or processing: {e}")
-        print("Please ensure you upload a valid JSON file with the correct structure.")
+        print(f"Se produjo un error durante la carga o el procesamiento del archivo.: {e}")
+        print("Asegúrese de cargar un archivo JSON válido con la estructura correcta.")
