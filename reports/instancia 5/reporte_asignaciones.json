@@ -1,0 +1,922 @@
+{
+    "asignaciones_por_dia": {
+        "V": [
+            {
+                "empleado": "E31",
+                "escritorio": "D4"
+            },
+            {
+                "empleado": "E3",
+                "escritorio": "D6"
+            },
+            {
+                "empleado": "E46",
+                "escritorio": "D26"
+            },
+            {
+                "empleado": "E24",
+                "escritorio": "D8"
+            },
+            {
+                "empleado": "E52",
+                "escritorio": "D19"
+            },
+            {
+                "empleado": "E47",
+                "escritorio": "D23"
+            },
+            {
+                "empleado": "E11",
+                "escritorio": "D12"
+            },
+            {
+                "empleado": "E59",
+                "escritorio": "D22"
+            },
+            {
+                "empleado": "E44",
+                "escritorio": "D14"
+            },
+            {
+                "empleado": "E28",
+                "escritorio": "D3"
+            },
+            {
+                "empleado": "E58",
+                "escritorio": "D20"
+            },
+            {
+                "empleado": "E7",
+                "escritorio": "D11"
+            },
+            {
+                "empleado": "E48",
+                "escritorio": "D25"
+            },
+            {
+                "empleado": "E23",
+                "escritorio": "D1"
+            },
+            {
+                "empleado": "E18",
+                "escritorio": "D5"
+            },
+            {
+                "empleado": "E1",
+                "escritorio": "D32"
+            },
+            {
+                "empleado": "E53",
+                "escritorio": "D21"
+            },
+            {
+                "empleado": "E32",
+                "escritorio": "D7"
+            },
+            {
+                "empleado": "E33",
+                "escritorio": "D10"
+            },
+            {
+                "empleado": "E10",
+                "escritorio": "D15"
+            },
+            {
+                "empleado": "E6",
+                "escritorio": "D24"
+            },
+            {
+                "empleado": "E30",
+                "escritorio": "D9"
+            },
+            {
+                "empleado": "E0",
+                "escritorio": "D30"
+            },
+            {
+                "empleado": "E41",
+                "escritorio": "D13"
+            },
+            {
+                "empleado": "E4",
+                "escritorio": "D27"
+            }
+        ],
+        "Ma": [
+            {
+                "empleado": "E3",
+                "escritorio": "D0"
+            },
+            {
+                "empleado": "E46",
+                "escritorio": "D32"
+            },
+            {
+                "empleado": "E13",
+                "escritorio": "D23"
+            },
+            {
+                "empleado": "E29",
+                "escritorio": "D5"
+            },
+            {
+                "empleado": "E26",
+                "escritorio": "D3"
+            },
+            {
+                "empleado": "E30",
+                "escritorio": "D16"
+            },
+            {
+                "empleado": "E33",
+                "escritorio": "D10"
+            },
+            {
+                "empleado": "E47",
+                "escritorio": "D12"
+            },
+            {
+                "empleado": "E35",
+                "escritorio": "D29"
+            },
+            {
+                "empleado": "E8",
+                "escritorio": "D19"
+            },
+            {
+                "empleado": "E34",
+                "escritorio": "D26"
+            },
+            {
+                "empleado": "E38",
+                "escritorio": "D6"
+            },
+            {
+                "empleado": "E50",
+                "escritorio": "D13"
+            },
+            {
+                "empleado": "E43",
+                "escritorio": "D20"
+            },
+            {
+                "empleado": "E51",
+                "escritorio": "D31"
+            },
+            {
+                "empleado": "E58",
+                "escritorio": "D34"
+            },
+            {
+                "empleado": "E7",
+                "escritorio": "D28"
+            },
+            {
+                "empleado": "E4",
+                "escritorio": "D14"
+            },
+            {
+                "empleado": "E48",
+                "escritorio": "D18"
+            },
+            {
+                "empleado": "E1",
+                "escritorio": "D25"
+            },
+            {
+                "empleado": "E57",
+                "escritorio": "D30"
+            },
+            {
+                "empleado": "E18",
+                "escritorio": "D9"
+            },
+            {
+                "empleado": "E27",
+                "escritorio": "D17"
+            },
+            {
+                "empleado": "E37",
+                "escritorio": "D27"
+            },
+            {
+                "empleado": "E52",
+                "escritorio": "D33"
+            },
+            {
+                "empleado": "E20",
+                "escritorio": "D11"
+            },
+            {
+                "empleado": "E0",
+                "escritorio": "D15"
+            },
+            {
+                "empleado": "E32",
+                "escritorio": "D7"
+            },
+            {
+                "empleado": "E36",
+                "escritorio": "D24"
+            },
+            {
+                "empleado": "E44",
+                "escritorio": "D22"
+            },
+            {
+                "empleado": "E49",
+                "escritorio": "D21"
+            },
+            {
+                "empleado": "E6",
+                "escritorio": "D1"
+            },
+            {
+                "empleado": "E5",
+                "escritorio": "D2"
+            },
+            {
+                "empleado": "E22",
+                "escritorio": "D8"
+            },
+            {
+                "empleado": "E2",
+                "escritorio": "D4"
+            }
+        ],
+        "J": [
+            {
+                "empleado": "E46",
+                "escritorio": "D33"
+            },
+            {
+                "empleado": "E13",
+                "escritorio": "D21"
+            },
+            {
+                "empleado": "E29",
+                "escritorio": "D18"
+            },
+            {
+                "empleado": "E0",
+                "escritorio": "D12"
+            },
+            {
+                "empleado": "E47",
+                "escritorio": "D30"
+            },
+            {
+                "empleado": "E9",
+                "escritorio": "D2"
+            },
+            {
+                "empleado": "E45",
+                "escritorio": "D27"
+            },
+            {
+                "empleado": "E34",
+                "escritorio": "D13"
+            },
+            {
+                "empleado": "E10",
+                "escritorio": "D22"
+            },
+            {
+                "empleado": "E25",
+                "escritorio": "D28"
+            },
+            {
+                "empleado": "E17",
+                "escritorio": "D24"
+            },
+            {
+                "empleado": "E6",
+                "escritorio": "D16"
+            },
+            {
+                "empleado": "E50",
+                "escritorio": "D7"
+            },
+            {
+                "empleado": "E19",
+                "escritorio": "D25"
+            },
+            {
+                "empleado": "E18",
+                "escritorio": "D31"
+            },
+            {
+                "empleado": "E27",
+                "escritorio": "D19"
+            },
+            {
+                "empleado": "E12",
+                "escritorio": "D23"
+            },
+            {
+                "empleado": "E58",
+                "escritorio": "D4"
+            },
+            {
+                "empleado": "E14",
+                "escritorio": "D0"
+            },
+            {
+                "empleado": "E11",
+                "escritorio": "D9"
+            },
+            {
+                "empleado": "E30",
+                "escritorio": "D26"
+            },
+            {
+                "empleado": "E1",
+                "escritorio": "D14"
+            },
+            {
+                "empleado": "E51",
+                "escritorio": "D8"
+            },
+            {
+                "empleado": "E15",
+                "escritorio": "D11"
+            },
+            {
+                "empleado": "E37",
+                "escritorio": "D15"
+            },
+            {
+                "empleado": "E8",
+                "escritorio": "D6"
+            },
+            {
+                "empleado": "E54",
+                "escritorio": "D1"
+            },
+            {
+                "empleado": "E21",
+                "escritorio": "D32"
+            },
+            {
+                "empleado": "E44",
+                "escritorio": "D29"
+            }
+        ],
+        "L": [
+            {
+                "empleado": "E24",
+                "escritorio": "D20"
+            },
+            {
+                "empleado": "E52",
+                "escritorio": "D19"
+            },
+            {
+                "empleado": "E53",
+                "escritorio": "D32"
+            },
+            {
+                "empleado": "E26",
+                "escritorio": "D34"
+            },
+            {
+                "empleado": "E30",
+                "escritorio": "D31"
+            },
+            {
+                "empleado": "E9",
+                "escritorio": "D26"
+            },
+            {
+                "empleado": "E56",
+                "escritorio": "D6"
+            },
+            {
+                "empleado": "E37",
+                "escritorio": "D27"
+            },
+            {
+                "empleado": "E5",
+                "escritorio": "D7"
+            },
+            {
+                "empleado": "E45",
+                "escritorio": "D9"
+            },
+            {
+                "empleado": "E14",
+                "escritorio": "D25"
+            },
+            {
+                "empleado": "E10",
+                "escritorio": "D15"
+            },
+            {
+                "empleado": "E25",
+                "escritorio": "D33"
+            },
+            {
+                "empleado": "E16",
+                "escritorio": "D1"
+            },
+            {
+                "empleado": "E59",
+                "escritorio": "D11"
+            },
+            {
+                "empleado": "E44",
+                "escritorio": "D14"
+            },
+            {
+                "empleado": "E51",
+                "escritorio": "D22"
+            },
+            {
+                "empleado": "E42",
+                "escritorio": "D10"
+            },
+            {
+                "empleado": "E55",
+                "escritorio": "D28"
+            },
+            {
+                "empleado": "E58",
+                "escritorio": "D29"
+            },
+            {
+                "empleado": "E4",
+                "escritorio": "D8"
+            },
+            {
+                "empleado": "E39",
+                "escritorio": "D2"
+            },
+            {
+                "empleado": "E19",
+                "escritorio": "D4"
+            },
+            {
+                "empleado": "E27",
+                "escritorio": "D17"
+            },
+            {
+                "empleado": "E41",
+                "escritorio": "D5"
+            },
+            {
+                "empleado": "E40",
+                "escritorio": "D16"
+            },
+            {
+                "empleado": "E29",
+                "escritorio": "D12"
+            },
+            {
+                "empleado": "E31",
+                "escritorio": "D23"
+            },
+            {
+                "empleado": "E57",
+                "escritorio": "D30"
+            },
+            {
+                "empleado": "E54",
+                "escritorio": "D18"
+            },
+            {
+                "empleado": "E28",
+                "escritorio": "D3"
+            },
+            {
+                "empleado": "E43",
+                "escritorio": "D0"
+            },
+            {
+                "empleado": "E49",
+                "escritorio": "D21"
+            },
+            {
+                "empleado": "E15",
+                "escritorio": "D13"
+            },
+            {
+                "empleado": "E32",
+                "escritorio": "D24"
+            }
+        ],
+        "Mi": [
+            {
+                "empleado": "E52",
+                "escritorio": "D34"
+            },
+            {
+                "empleado": "E30",
+                "escritorio": "D26"
+            },
+            {
+                "empleado": "E47",
+                "escritorio": "D2"
+            },
+            {
+                "empleado": "E9",
+                "escritorio": "D12"
+            },
+            {
+                "empleado": "E56",
+                "escritorio": "D11"
+            },
+            {
+                "empleado": "E37",
+                "escritorio": "D20"
+            },
+            {
+                "empleado": "E5",
+                "escritorio": "D8"
+            },
+            {
+                "empleado": "E8",
+                "escritorio": "D17"
+            },
+            {
+                "empleado": "E34",
+                "escritorio": "D22"
+            },
+            {
+                "empleado": "E17",
+                "escritorio": "D5"
+            },
+            {
+                "empleado": "E16",
+                "escritorio": "D19"
+            },
+            {
+                "empleado": "E6",
+                "escritorio": "D1"
+            },
+            {
+                "empleado": "E44",
+                "escritorio": "D31"
+            },
+            {
+                "empleado": "E43",
+                "escritorio": "D33"
+            },
+            {
+                "empleado": "E49",
+                "escritorio": "D4"
+            },
+            {
+                "empleado": "E58",
+                "escritorio": "D9"
+            },
+            {
+                "empleado": "E4",
+                "escritorio": "D0"
+            },
+            {
+                "empleado": "E1",
+                "escritorio": "D10"
+            },
+            {
+                "empleado": "E39",
+                "escritorio": "D24"
+            },
+            {
+                "empleado": "E57",
+                "escritorio": "D7"
+            },
+            {
+                "empleado": "E18",
+                "escritorio": "D18"
+            },
+            {
+                "empleado": "E28",
+                "escritorio": "D28"
+            },
+            {
+                "empleado": "E23",
+                "escritorio": "D3"
+            },
+            {
+                "empleado": "E11",
+                "escritorio": "D27"
+            },
+            {
+                "empleado": "E41",
+                "escritorio": "D29"
+            },
+            {
+                "empleado": "E14",
+                "escritorio": "D25"
+            },
+            {
+                "empleado": "E20",
+                "escritorio": "D16"
+            },
+            {
+                "empleado": "E54",
+                "escritorio": "D6"
+            },
+            {
+                "empleado": "E51",
+                "escritorio": "D32"
+            },
+            {
+                "empleado": "E19",
+                "escritorio": "D15"
+            },
+            {
+                "empleado": "E36",
+                "escritorio": "D21"
+            },
+            {
+                "empleado": "E22",
+                "escritorio": "D13"
+            },
+            {
+                "empleado": "E21",
+                "escritorio": "D23"
+            },
+            {
+                "empleado": "E40",
+                "escritorio": "D30"
+            }
+        ]
+    },
+    "dias_preferidos_por_empleado": {
+        "E0": [
+            "V",
+            "J",
+            "Ma"
+        ],
+        "E1": [
+            "L",
+            "Mi",
+            "Ma",
+            "J"
+        ],
+        "E2": [
+            "Ma",
+            "J"
+        ],
+        "E3": [
+            "Ma",
+            "V"
+        ],
+        "E4": [
+            "V",
+            "Ma",
+            "Mi",
+            "L"
+        ],
+        "E5": [
+            "Mi",
+            "L"
+        ],
+        "E6": [
+            "J",
+            "Mi"
+        ],
+        "E7": [
+            "V",
+            "Ma"
+        ],
+        "E8": [
+            "Mi",
+            "Ma",
+            "J"
+        ],
+        "E9": [
+            "Mi",
+            "J",
+            "L"
+        ],
+        "E10": [
+            "L",
+            "J",
+            "V"
+        ],
+        "E11": [
+            "V",
+            "L",
+            "Mi"
+        ],
+        "E12": [
+            "Ma",
+            "Mi"
+        ],
+        "E13": [
+            "J",
+            "Ma"
+        ],
+        "E14": [
+            "Mi",
+            "L"
+        ],
+        "E15": [
+            "V",
+            "L",
+            "Ma",
+            "J"
+        ],
+        "E16": [
+            "L",
+            "Mi"
+        ],
+        "E17": [
+            "Mi",
+            "V",
+            "J"
+        ],
+        "E18": [
+            "Mi",
+            "J",
+            "V",
+            "L",
+            "Ma"
+        ],
+        "E19": [
+            "L",
+            "J",
+            "Mi"
+        ],
+        "E20": [
+            "Mi",
+            "Ma"
+        ],
+        "E21": [
+            "J"
+        ],
+        "E22": [
+            "Mi",
+            "Ma"
+        ],
+        "E23": [
+            "V"
+        ],
+        "E24": [
+            "L",
+            "V"
+        ],
+        "E25": [
+            "J",
+            "L"
+        ],
+        "E26": [
+            "Ma",
+            "L"
+        ],
+        "E27": [
+            "J",
+            "Ma",
+            "L"
+        ],
+        "E28": [
+            "V",
+            "L"
+        ],
+        "E29": [
+            "J",
+            "Ma"
+        ],
+        "E30": [
+            "J",
+            "L",
+            "Mi",
+            "Ma",
+            "V"
+        ],
+        "E31": [
+            "Mi",
+            "V",
+            "J"
+        ],
+        "E32": [
+            "L",
+            "V"
+        ],
+        "E33": [
+            "Ma",
+            "V"
+        ],
+        "E34": [
+            "Ma",
+            "J",
+            "Mi"
+        ],
+        "E35": [
+            "V",
+            "Ma"
+        ],
+        "E36": [
+            "L",
+            "Mi"
+        ],
+        "E37": [
+            "J",
+            "L",
+            "Mi"
+        ],
+        "E38": [
+            "Ma"
+        ],
+        "E39": [
+            "L",
+            "Mi"
+        ],
+        "E40": [
+            "J",
+            "Mi"
+        ],
+        "E41": [
+            "V",
+            "Mi"
+        ],
+        "E42": [
+            "Ma",
+            "L"
+        ],
+        "E43": [
+            "Mi",
+            "Ma",
+            "L"
+        ],
+        "E44": [
+            "Ma",
+            "L",
+            "V",
+            "Mi"
+        ],
+        "E45": [
+            "L",
+            "Ma",
+            "J"
+        ],
+        "E46": [
+            "Ma",
+            "L",
+            "J",
+            "V"
+        ],
+        "E47": [
+            "J",
+            "V",
+            "Mi",
+            "Ma"
+        ],
+        "E48": [
+            "Ma",
+            "V"
+        ],
+        "E49": [
+            "L",
+            "Mi"
+        ],
+        "E50": [
+            "J",
+            "Ma"
+        ],
+        "E51": [
+            "J",
+            "Ma",
+            "L",
+            "Mi"
+        ],
+        "E52": [
+            "V",
+            "Mi",
+            "L"
+        ],
+        "E53": [
+            "L",
+            "V"
+        ],
+        "E54": [
+            "J",
+            "Mi"
+        ],
+        "E55": [
+            "Ma",
+            "L"
+        ],
+        "E56": [
+            "L",
+            "Mi"
+        ],
+        "E57": [
+            "Mi",
+            "Ma"
+        ],
+        "E58": [
+            "V",
+            "Mi",
+            "J",
+            "L",
+            "Ma"
+        ],
+        "E59": [
+            "V",
+            "L"
+        ]
+    }
+}
