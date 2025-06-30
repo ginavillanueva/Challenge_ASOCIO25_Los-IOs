@@ -26,29 +26,8 @@ TASA_MUTACION_ESCRITORIO_REL = 0.75
 TASA_MUTACION_DIA_REL = 0.20
 TASA_MUTACION_ELIMINACION_REL = 0.05
 TASA_MUTACION_ADICION = 0.10
-
-
 # ==============================================================================
-# CARGA Y PREPROCESAMIENTO DE DATOS (Existing functions)
-# ==============================================================================
-
-def cargar_datos(nombre_archivo: str):
-    """Carga datos desde un archivo JSON y maneja errores."""
-    try:
-        with open(nombre_archivo, 'r', encoding='utf-8') as archivo:
-            return json.load(archivo)
-    except FileNotFoundError:
-        print(f"Error Crítico: El archivo de datos '{nombre_archivo}' no fue encontrado.")
-        return None
-    except json.JSONDecodeError:
-        print(f"Error Crítico: El archivo '{nombre_archivo}' contiene un JSON inválido.")
-        return None
-    except Exception as e:
-        print(f"Error Crítico: Ocurrió un error inesperado al cargar el archivo: {e}")
-        return None
-
-# ==============================================================================
-# FUNCIONES DEL ALGORITMO GENÉTICO (Existing functions)
+# FUNCIONES DEL ALGORITMO GENÉTICO 
 # ==============================================================================
 
 def crear_individuo(employees, days, dias_por_empleado, escritorios_por_empleado):
@@ -210,7 +189,7 @@ def seleccionar_padre_por_torneo(poblacion_con_puntuaciones):
     return ganador[0]
 
 # ==============================================================================
-# FUNCIONES DE REPORTE Y ANÁLISIS (Modified and New)
+# FUNCIONES DE REPORTE Y ANÁLISIS 
 # ==============================================================================
 
 def reportar_resultados(mejor_asignacion, datos_completos):
@@ -530,7 +509,7 @@ def generar_reporte_pdf(mejor_penalizacion, mejor_asignacion, kpis, graficos_pat
 
 
 # ==============================================================================
-# BUCLE PRINCIPAL DEL ALGORITMO (Modified to call new report functions and print KPIs)
+# BUCLE PRINCIPAL DEL ALGORITMO 
 # ==============================================================================
 
 def ejecutar_algoritmo_genetico(datos):
