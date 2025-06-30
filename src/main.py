@@ -14,7 +14,7 @@ from reportlab.lib import colors
 from google.colab import files
 
 # ==============================================================================
-# PARÁMETROS DEL ALGORITMO GENÉTICO (Existing parameters)
+# PARÁMETROS DEL ALGORITMO GENÉTICO 
 # ==============================================================================
 POBLACION_SIZE = 300
 GENERACIONES = 300
